@@ -1,4 +1,4 @@
-name: base
+name: clinical-notes
 channels:
   - defaults
 dependencies:
@@ -17,4 +17,3 @@ dependencies:
       - pyyaml==6.0.1
       - svgling==0.3.1
       - svgwrite==1.4.3
-prefix: C:\Users\javie\anaconda3\envs\clinical-notes
